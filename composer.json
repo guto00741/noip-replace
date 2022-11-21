@@ -1,0 +1,7 @@
+{
+    "name": "gustavo/noip-replace",
+    "minimum-stability": "dev",
+    "require": {
+        "cloudflare/sdk": "dev-master"
+    }
+}
